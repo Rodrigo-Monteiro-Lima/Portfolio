@@ -14,7 +14,7 @@
 <br>
 
 <p align="center">
-  <img alt="gow" src=".github/preview.jpg" width="100%">
+  <img alt="preview" src=".github/preview.jpg" width="100%">
 </p>
 
 ## 🚀 Technologies
